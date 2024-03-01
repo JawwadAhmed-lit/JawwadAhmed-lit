@@ -1,6 +1,6 @@
 # JawawdAhmed-lit
 
-_ Visit Me & Watch snake grow Everyday! :>_
+_Visit Me & Watch snake grow Everyday! :>_
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/JawwadAhmed-lit/JawawdAhmed-lit/output/github-contribution-grid-snake-dark.svg)">
   <source media="(prefers-color-scheme: light)" srcset="[snake](https://raw.githubusercontent.com/JawwadAhmed-lit/JawawdAhmed-lit/output/github-contribution-grid-snake.svg)">
