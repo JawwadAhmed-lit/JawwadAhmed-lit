@@ -2,7 +2,8 @@
 ## You Have come at the right place to know about me :) .
 
 Recently made a small project of my own interest where you can download youTube videos for free using a quick software. 
-📎 **[Check out the project on GitHub](https://github.com/JawwadAhmed-lit/Yt-MP3-4-converter/tree/v1.0.0)**
+
+📎 **[Check out the project on GitHub](https://github.com/JawwadAhmed-lit/Yt-MP3-4-converter/tree/master)**
 
 _Visit Me & Watch snake grow Everyday! :>_
 <picture>
