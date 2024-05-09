@@ -10,10 +10,6 @@ In progress with a Data Wrangling Project with a Bio Chemistry Graduate Student,
 📎 **[Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)**
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit" alt="JawwadAhmed" /></p>.
-
-
-
 
 _Visit Me & Watch snake grow Everyday! :>_
 <picture>
@@ -26,3 +22,7 @@ _Visit Me & Watch snake grow Everyday! :>_
   <strong>🐍 GitHub Contributions </strong><br>
   <span style="font-size: 0.4em;"><i>Special Thanks to <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a></i></span>
 </p>
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit" alt="JawwadAhmed" /></p>.
