@@ -7,7 +7,7 @@ Recently made a small project of my own interest where you can download youTube 
 
 In progress with a Data Wrangling Project with a Bio Chemistry Graduate Student, researching on Mouse specie.
 
-📎**[Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)**
+📎 **[Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)**
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit" alt="JawwadAhmed" /></p>.
