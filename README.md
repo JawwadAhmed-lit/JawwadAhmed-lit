@@ -5,6 +5,9 @@ Recently made a small project of my own interest where you can download youTube 
 
 📎 **[Check out the project on GitHub](https://github.com/JawwadAhmed-lit/Yt-MP3-4-converter/tree/master)**
 
+In progress with a Data Wrangling Project with a Bio Chemistry Graduate Student, researching on Mouse specie
+📎**[Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)**
+
 _Visit Me & Watch snake grow Everyday! :>_
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/JawwadAhmed-lit/JawawdAhmed-lit/output/github-contribution-grid-snake-dark.svg)">
