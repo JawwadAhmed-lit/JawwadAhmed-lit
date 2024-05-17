@@ -26,4 +26,4 @@ _Visit Me & Watch snake grow Everyday! :>_
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit&theme=gradient" alt="JawwadAhmed" /></p>.
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" alt="JawwadAhmed" /></p>.
