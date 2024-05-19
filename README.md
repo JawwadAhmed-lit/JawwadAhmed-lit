@@ -10,6 +10,7 @@ Completed  a Data Wrangling Project with a Bio Informatics Graduate Researcher o
 
 📎 **[Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)**
 
+Current goal to have longest streak possible for myself.
 
 
 _Visit Me & Watch snake grow Everyday! :>_
