@@ -30,3 +30,4 @@ _Visit Me & Watch snake grow Everyday! :>_
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit&theme=radical" alt="JawwadAhmed" /></p>.
+![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawwadAhmed-lit&show_icons=true&theme=radical)
