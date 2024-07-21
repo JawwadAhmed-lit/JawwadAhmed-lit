@@ -31,16 +31,5 @@ _Visit Me & Watch snake grow Everyday! :>_
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmed-lit&theme=radical" alt="JawwadAhmed" /></p>.
 
-![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawwadAhmed-lit&show_icons=true&theme=radical)
+![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawwadAhmed-lit&show_icons=true&theme=gruvbox)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
