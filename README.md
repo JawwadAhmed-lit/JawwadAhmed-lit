@@ -24,7 +24,7 @@ _Visit Me & Watch snake grow Everyday! :>_
 
 <p align="center">
   <strong>🐍 GitHub Contributions </strong><br>
-  <span style="font-size: 0.4em;"><i>Special Thanks to <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a></i></span>
+  <span style="font-size: 0.4em;"><i>Special Thanks to <a href="https://github.com/Platane/snke" target="_blank">Platane/snk</a></i></span>
 </p>
 
 
