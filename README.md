@@ -13,9 +13,9 @@ I love solving problems, creating innovative projects, and exploring new technol
   Worked on a Data Wrangling Project with a Bioinformatics Graduate Researcher from Memorial University.  
   📎 [Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)
 
-- **Movie Recommender System**  
+- **Movie Recommendation System**  
   Designed a Machine Learning model to recommend movies based on user preferences.  
-  📎 [Movie Recommender System](https://github.com/JawwadAhmed-lit/Movie-Recommender-System)
+  📎 [Movie Recommendation System](https://github.com/JawwadAhmed-lit/Movie-Recommendation-System))
 
 - **Anti-Attention Engineering Project**  
   Currently developing a project focused on minimizing distractions and promoting productivity.  
