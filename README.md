@@ -15,7 +15,7 @@ I love solving problems, creating innovative projects, and exploring new technol
 
 - **Movie Recommendation System**  
   Designed a Machine Learning model to recommend movies based on user preferences.  
-  📎 [Movie Recommendation System](https://github.com/JawwadAhmed-lit/Movie-Recommendation-System))
+  📎 [Movie Recommendation System](https://github.com/JawwadAhmed-lit/Movie-Recommendation-System)
 
 - **Anti-Attention Engineering Project**  
   Currently developing a project focused on minimizing distractions and promoting productivity.  
