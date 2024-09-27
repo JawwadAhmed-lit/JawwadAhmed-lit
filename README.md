@@ -23,6 +23,7 @@ I love solving problems, creating innovative projects, and exploring new technol
 
 ### 🎯 Goals
 - Currently on a mission to achieve the longest GitHub streak possible.
+- Want to help society for betterment using coding.
   
 ---
 
