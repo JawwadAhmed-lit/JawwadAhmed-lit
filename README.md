@@ -21,6 +21,9 @@ I love solving problems, creating innovative projects, and exploring new technol
   Currently developing a project focused on minimizing distractions and promoting productivity.  
   📎 [Anti-Attention Engineering](https://github.com/JawwadAhmed-lit/Anti-Attention-Engineering)
 
+  - **My Collaborative Project, building Authentication in Flutter**
+    With two other peers, we built an authentication system in flutter using firebase . [Flutter-Firebase](https://github.com/Raunak-Sarmacharya/Auth-Flutter-Firebase)
+
 ### 🎯 Goals
 - Currently on a mission to achieve the longest GitHub streak possible.
 - Want to help society for betterment using coding.
