@@ -9,7 +9,7 @@ I love solving problems, creating innovative projects, and exploring new technol
   Built a fast and free YouTube video downloader using Python.  
   📎 [Check out the project on GitHub](https://github.com/JawwadAhmed-lit/Yt-MP3-4-converter/tree/master)
 
-- **Protein Processing Collaboration**  
+- **Protein Processing Data minig**  
   Worked on a Data Wrangling Project with a Bioinformatics Graduate Researcher from Memorial University.  
   📎 [Protein Processing](https://github.com/JawwadAhmed-lit/Protein-Processing.git)
 
